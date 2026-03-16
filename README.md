@@ -48,5 +48,4 @@ To run these scripts locally, you will need Python installed on your machine.
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/your-username/pipeline-optimization.git](https://github.com/your-username/pipeline-optimization.git)
-   cd pipeline-optimization
+   git clone https://github.com/iitiankitmishra/Hydraulics_InterIIT_Civil_Conclave.git
